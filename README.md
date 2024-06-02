@@ -6,7 +6,7 @@ In this assignment, I implemented a Jupyter Notebook-based user interface for th
 ## How to RUN the code
 -----------------------------
 
-1. Clone the repository inside the src file of your ROS workspace using:
+1. Clone the repository using:
 ```bash
 git clone https://github.com/cheimaferdjallah/RT_Assignment2_Cheima_Ferdjallah.git
 ```
